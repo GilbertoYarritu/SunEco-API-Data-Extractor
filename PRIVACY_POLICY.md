@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-**Last updated:** YYYY-MM-DD
+**Last updated:** 2025-05-21
 
 This Privacy Policy governs the use of **SunEco API Data Extractor** (the “App”), provided by **Gilberto Yarritu and Associates** in Monterrey, Mexico.
 
@@ -70,7 +70,7 @@ Depending on your jurisdiction, you may have rights to:
 - Request deletion of any logs we maintain (none held).  
 - Object to or restrict processing of your data.  
 
-To exercise these rights, email **support@youremail.com**.
+To exercise these rights, email **gilbertoyarritu@gmail.com**.
 
 ---
 
@@ -83,5 +83,5 @@ We may update this policy. The “Last updated” date will reflect changes. Maj
 ## 8. Contact Us
 
 If you have questions or concerns, please contact:  
-- **Email:** support@youremail.com  
+- **Email:** gilbertoyarritu@gmail.com  
 - **Address:** Monterrey, Nuevo León, Mexico  
